@@ -21,7 +21,7 @@ const server = Relinker.createRelinkerServer(8080, { // Port and options
 
 The Class has:
 
-```
+```md
 > Fields:
 >>> port
 >>> options
