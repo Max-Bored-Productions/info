@@ -1,7 +1,7 @@
 ---
-slug: mdx-blog-post
-title: MDX Blog Post
-authors: [slorber]
+slug: Test Blog Post
+title: Test Blog post
+authors: [maxj]
 tags: [docusaurus]
 ---
 
