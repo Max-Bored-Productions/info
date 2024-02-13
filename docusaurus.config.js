@@ -4,12 +4,12 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
-const organizationName = "Max-Bored-Prdouctions";
+const organizationName = "Max-Bored-Prodouctions";
 const projectName = "Max-Bored-Productions.github.io";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Max-Bored-Prdouctions",
+  title: "Max-Bored-Prodouctions",
   tagline: "When Productions are boring",
   url: `https://${organizationName}.github.io`,
   baseUrl: `/${projectName}/`,
