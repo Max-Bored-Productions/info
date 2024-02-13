@@ -1,0 +1,8 @@
+{
+  "label": "Relinker - Guidance",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Way to learn the concepts of Relinker"
+  }
+}
